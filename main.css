@@ -1,19 +1,41 @@
-h1{
-font-size:40px;
-font-family: Arial
+h1 {
+  font-size: 40px;
+  font-family: Arial
 }
-h2{
-font-size: 25px;
-font-family: Arial
+
+h2 {
+  font-size: 25px;
+  font-family: Arial
 }
-h3{
-font-family: Arial
+
+h3 {
+  font-family: Arial
 }
-p{
-font-size:14px;
-font-family: Arial
+
+p {
+  font-size: 14px;
+  font-family: Arial
 }
+<<<<<<< HEAD
 div{
 background-color: blue;
 text-align: right;
+=======
+
+div {
+  background-color: darkcyan;
+  text-align: right;
+>>>>>>> be6941d78036c167331337aaeba76c5c7b211e1a
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  font-family: Arial
+}
+
+tr:nth-child(odd) {
+  background-color: #f2f2f2;
 }
